@@ -11,7 +11,9 @@
 To deploy this project run
 
 ```bash
-npm install & node index.js
+npm install node-fetch uuid colors
+npm install
+node main.js
 ```
 
 
